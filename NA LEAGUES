@@ -1,24 +1,18 @@
 {
-  "leagues": [
-    {
-      "name": "National Football League",
-      "abbreviation": "NFL",
-      "sport": "American Football"
-    },
-    {
-      "name": "Major League Baseball",
-      "abbreviation": "MLB",
-      "sport": "Baseball"
-    },
-    {
-      "name": "National Basketball Association",
-      "abbreviation": "NBA",
-      "sport": "Basketball"
-    },
-    {
-      "name": "National Hockey League",
-      "abbreviation": "NHL",
-      "sport": "Ice Hockey"
-    }
-  ]
+  "nba": {
+    "name": "National Basketball Association",
+    "sport": "Basketball"
+  },
+  "NHL": {
+    "name": "National Hockey League",
+    "sport": "Ice Hockey"
+  },
+  "NFL": {
+    "name": "National Football League",
+    "sport": "American Football"
+  },
+  "mlb": {
+    "name": "Major League Baseball",
+    "sport": "Baseball"
+  }
 }
