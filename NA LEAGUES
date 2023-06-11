@@ -1,19 +1,24 @@
-  [ {      
+{
+  "leagues": [
+    {
+      "name": "National Football League",
       "abbreviation": "NFL",
-   
+      "sport": "American Football"
     },
     {
+      "name": "Major League Baseball",
       "abbreviation": "MLB",
-     
+      "sport": "Baseball"
     },
     {
-   
+      "name": "National Basketball Association",
       "abbreviation": "NBA",
-      
+      "sport": "Basketball"
     },
     {
-     
+      "name": "National Hockey League",
       "abbreviation": "NHL",
-    
+      "sport": "Ice Hockey"
     }
-]
+  ]
+}
